@@ -11,22 +11,22 @@
 
 بعد ذلك توجه الي موقع [crowdin](https://freecodecamp.crowdin.com/) و هي المنصة التي تتم من خلالها الترجمة، و قم بإنشاء حساب جديد.
 
-<img width="1792" alt="1" src="https://user-images.githubusercontent.com/99178533/158624589-dd636f6a-8ce4-4f9f-b337-98fdb98c2056.png">
+![1](https://user-images.githubusercontent.com/99178533/158883089-2f4a389e-0199-477d-80e1-a9742c9bfaaa.jpeg)
 
 **ملحوظة:** سوف تتلقي رسالة علي بريدك الالكتروني الذي انشأت به حسابك، تأكد من فتح هذه الرسالة و الضغط علي **verify email** لتفعيل حسابك.
 
 ## الخطوات العملية للبدء في الترجمة
 1. بعد إنشاء الحساب بنجاح، قم بتسجيل الدخول و من ثم قم بالنقر علي **Coding Curriculum**
 
-<img width="1792" alt="2" src="https://user-images.githubusercontent.com/99178533/158626035-f022ccbd-f5bd-48d1-a19b-c25bdc0ba96b.png">
+![2](https://user-images.githubusercontent.com/99178533/158883116-45d07927-9356-41d3-b07d-7abf3f6fe1cc.jpeg)
 
 2. سوف تظهر امامك هذه الصفحة، قم بأختيار اللغة العربية **Arabic(ar)**
 
-<img width="1792" alt="3" src="https://user-images.githubusercontent.com/99178533/158628658-d94e9457-ead7-4779-86dd-bbd7e705fce1.png">
+![3](https://user-images.githubusercontent.com/99178533/158883316-b0caa494-e29c-44b7-b316-acd00af8b9ba.jpeg)
 
 3. بعد اختيار **Arabic(ar)** سوف يظر امامك جميع مجلدات المناهج المختلفة. الاولوية في الترجمة تكون كما هو موضح بالصورة، فعلي سبيل المثال ستري  انه تم الانتهاء من ترجمة ٤٥٪ من منهج  **Javascript**. في وقت مساهمتك اذا لم يكن منهج **Javascript** مترجم بنسبة ١٠٠٪، فمن الافضل العمل علي ترجمته اولا.
 
-<img width="1792" alt="4" src="https://user-images.githubusercontent.com/99178533/158677751-cccd6e29-a961-48bf-ab6c-3c8883c10757.png">
+![4](https://user-images.githubusercontent.com/99178533/158883202-7227102a-193f-4e0a-97dc-8a0bb8ac3d54.jpeg)
 
 اما اذا كان تم الانتهاء من ترجمة **Javascript** بالكامل، فالاولوية تكون لرقم **2** ثم **3** كما هو موضح بالصورة اعلاه. الانتهاء من ترجمة هؤلاء الثلاث سيمكننا من اطلاق اول شهادة للراغبين في التعلم باللغة العربية و هي شهادة الـ **front end development** و سيكون هذا انجاز اول عظيم ان شاء الله.
 
@@ -34,16 +34,16 @@
 
 1. اذا قمت بفتح اي مجلد، ستظهر المجلدات و الملفات التي بداخله كما هو موضح بالصورة ادناه. **الشريط الازرق** يشير الي النسبة التي تم ترجمتها اما **الشريط الاخضر**  فيشير الي نسبة الترجمة التي تم مراجعتها من قبل فريق المراجعين.
 
-<img width="1792" alt="5" src="https://user-images.githubusercontent.com/99178533/158680942-21af81fe-38ef-4b53-a4e3-7350c895d016.png">
+![5](https://user-images.githubusercontent.com/99178533/158883237-66452151-e900-4b71-bbf7-cb780968ff2c.jpeg)
 
 2. يمكنك الآن اختيار اي ملف لم تتم ترجمته بالكامل، اي ان شريطه الازرق لم يصل الي ١٠٠٪، للبدء في العمل عليه. بعد فتح الملف سوف يظهر امامك المحرر كما هو مووضح بالصورة ادناه. قبل اي شئ، قم بالضغط علي علامة **الاعدادات** و قم بتغيير **"HTML tags displaying"** الي **"SHOW"**. سيمكنك هذا من رؤية tags الـ `</code><code>` بدلا من `<0></0>`.
 
-<img width="1792" alt="6" src="https://user-images.githubusercontent.com/99178533/158683336-b3207505-dc63-4d59-bce3-cf9fbb99081a.png">
+![6](https://user-images.githubusercontent.com/99178533/158883248-4dde4510-3147-4266-8338-1d031cc01288.jpeg)
 
 
 ## كيفية استخدام المحرر
 
-<img width="1792" alt="7" src="https://user-images.githubusercontent.com/99178533/158687506-103ebb0f-6afd-4a26-8a0c-4c5d6c3f1fe1.png">
+![7](https://user-images.githubusercontent.com/99178533/158883258-4932066f-6c73-4986-ae5e-931d4f7337d6.jpeg)
 
 1. الـ string **باللون الاخضر** معناه انه لديه بالفعل ترجمة مقترحة قام بإضافتها احد المساهمين.
 2. الـ string **باللون الاحمر** معناه انه لم يتم ترجمته بعد.
